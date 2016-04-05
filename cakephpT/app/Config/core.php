@@ -1,4 +1,4 @@
-<?php
+123<?php
 /**
  * This is core configuration file.
  *
